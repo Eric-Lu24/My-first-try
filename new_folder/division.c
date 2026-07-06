@@ -3,7 +3,7 @@
 int main(){
 	int x;
 	int t;
-	printf("请输入要切分的整数:\n");
+	printf("脟毛脢盲脠毛脪陋脟脨路脰碌脛脮没脢媒:\n");
 	scanf("%d",&x);
 	t = x;
 	int mask=1;
