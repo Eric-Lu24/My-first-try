@@ -3,7 +3,7 @@
 int main(){
 	double f;
 	double x;
-	printf("ÊäÈë¸Ã·Ö¶Îº¯Êýºá×ø±ê£º\n");
+	printf("è¾“å…¥è¯¥åˆ†æ®µå‡½æ•°æ¨ªåæ ‡ï¼š\n");
 	scanf("%lf",&x);
 	
 	int type=(x!=0)+(x>0)+1;
