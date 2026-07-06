@@ -5,11 +5,11 @@ int main(){
 	while(a>=0){
 		a++;
 	}
-	printf("int类型的最大数值为%d\n",a-1);
+	printf("int绫诲瀷鐨勬渶澶ф暟鍊间负%d\n",a-1);
 	unsigned int b=1;
 	while(b>0){
 		b++;
 	}
-	printf("unsigned int类型的最大数值为%u\n",b-1);
+	printf("unsigned int绫诲瀷鐨勬渶澶ф暟鍊间负%u\n",b-1);
 //32bits 
 }
