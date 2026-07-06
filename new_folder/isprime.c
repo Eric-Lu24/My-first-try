@@ -2,7 +2,7 @@
 
 int main(){
 	int n;
-	printf("ÇëÊäÈëÕûÊıµÄÊıÄ¿£º");
+	printf("è¯·è¾“å…¥æ•´æ•°çš„æ•°ç›®ï¼š");
 	scanf("%d",&n); 
 	int x;
 	int i;
@@ -13,7 +13,7 @@ int main(){
 			if(x%i == 0){
 				isprime = 0;
 				break;
-				//breakµÄÓÃ·¨£º´òÆÆÑ­»· 
+				//breakçš„ç”¨æ³•ï¼šæ‰“ç ´å¾ªç¯ 
 			}
 		}
 		if(isprime == 1){
